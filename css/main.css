@@ -1,0 +1,68 @@
+
+
+/* ==========================================================================
+   RAMOS DUQUE MARIO
+   ========================================================================== */
+
+header{
+	background-color:#FF0;
+	border-radius: 20px;
+	padding:30px;
+}
+
+body{
+	padding-top:10px;
+}
+
+div{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+nav{
+	background-color:#F00;
+	border-radius: 20px;
+	padding:30px;
+	height:2025px;
+}
+
+main{
+	background-color:#9C6;
+	border-radius: 20px;
+	padding:30px;
+}
+
+.artic2{
+	background-color:#0C6;
+	padding:5px;
+	border-radius: 5px;
+}
+article{
+	background-color:#9FF;
+	padding:10px;
+	border-radius: 10px;
+}
+
+footer{
+	background-color:#F9C;
+	border-radius: 20px;
+}
+
+.input{
+	background-color:#CF3;
+	padding:10px;
+	border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
